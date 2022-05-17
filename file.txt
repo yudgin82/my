@@ -2,3 +2,4 @@
 2.HP
 3.Lenovo
 4.Asus
+MSI
