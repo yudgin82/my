@@ -2,6 +2,7 @@
 2.HP
 3.Lenovo
 4.Asus
+<<<<<<< HEAD
 MSI
 <<<<<<< HEAD
 
@@ -11,3 +12,7 @@ Hello word
 126
 =======
 >>>>>>> e31212a9fe14f448615fcf6d83a110e857002533
+=======
+---------------------------------------------------
+newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+>>>>>>> de06bd4531143c5fee6c1f9e422a37513fdfa317
